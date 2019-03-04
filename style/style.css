@@ -18,6 +18,15 @@ body{
     transform: translateX(0px);
 }
 
+.sBarBtn{
+    transition: all .5s;
+}
+
+.sBarBtn:hover{
+    transform: translateY(-3px);
+}
+
+
 .custon-shadow{
     box-shadow: 0px 2px 1px 1px  rgb(184, 182, 182);
 }
